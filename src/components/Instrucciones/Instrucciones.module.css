@@ -1,0 +1,13 @@
+.instructions {
+  text-align: center;
+}
+.botonVolver {
+  text-align: center;
+  background-color: orangered;
+  margin-top: 50px;
+  font-size: xx-large;
+}
+
+p {
+  font-size: x-large;
+}
